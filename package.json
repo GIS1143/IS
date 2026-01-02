@@ -1,0 +1,19 @@
+{
+  "name": "jingjang-server",
+  "version": "1.0.0",
+  "description": "Zero Waste Point System",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "multer": "^2.0.2",
+    "sqlite3": "^5.1.7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
